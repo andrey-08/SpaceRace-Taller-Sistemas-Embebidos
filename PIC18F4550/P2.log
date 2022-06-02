@@ -1,0 +1,20 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"C:\Users\Andrey\Documents\TEC\1 semestre 2022\Taller Embebidos\Proyec2\P2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Andrey\Documents\TEC\1 semestre 2022\Taller Embebidos\Proyec2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "glcd.c" "portada.c" "GameOver.c" "TEC.c" "space.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_PrintOut.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Manchester.mcl" "__Lib_PS2.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_D.mcl" "__Lib_PWM_c21.mcl" "__Lib_SPI_b10c7.mcl" "__Lib_UART_c67.mcl" "__Lib_USB_genHID.mcl" "__Lib_PortExpander.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_Mmc.mcl" "__Lib_RS485.mcl" "__Lib_SPIGlcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	glcd.c
+warning: 787	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	glcd.c
+diagnostics: 1088	123	Compiled Successfully	glcd.c
+diagnostics: 0	122	Compilation Started	portada.c
+diagnostics: 15	123	Compiled Successfully	portada.c
+diagnostics: 0	122	Compilation Started	GameOver.c
+diagnostics: 15	123	Compiled Successfully	GameOver.c
+diagnostics: 0	122	Compilation Started	TEC.c
+diagnostics: 15	123	Compiled Successfully	TEC.c
+diagnostics: 0	122	Compilation Started	space.c
+diagnostics: 15	123	Compiled Successfully	space.c
+diagnostics: 0	127	All files Compiled in 329 ms	 
+hint: 0	1144	Used RAM (bytes): 556 (27%)  Free RAM (bytes): 1471 (73%)	Used RAM (bytes): 556 (27%)  Free RAM (bytes): 1471 (73%)
+hint: 0	1144	Used ROM (bytes): 25671 (78%)  Free ROM (bytes): 7097 (22%)	Used ROM (bytes): 25671 (78%)  Free ROM (bytes): 7097 (22%)
+diagnostics: 0	125	Project Linked Successfully	P2.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'P2.mcppi' completed: 438 ms	 
+diagnostics: 0	103	Finished successfully: 25 abr. 2022, 16:58:15	P2.mcppi
